@@ -1,0 +1,1 @@
+This is a project for NLP 2018 class at Ashesi University
